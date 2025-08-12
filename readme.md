@@ -59,9 +59,10 @@ For questions, collaboration, or portfolio review, feel free to reach out via Li
 ## 🔗 Live Demo
 
 Check out the live version of this project here:  
-👉 [Live Demo](https://christianjason22042004.github.io/WebDevelopmentProjects/)
+👉 [Live Demo](https://github.com/ChristianJason22042004/WebDevelopmentProjects)
 
 ---
                                                  
 Thanks for checking out the project!
+
 
