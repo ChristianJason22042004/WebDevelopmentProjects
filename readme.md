@@ -56,6 +56,12 @@ Feedback is welcome. Feel free to fork the repository, open issues, or suggest i
 
 For questions, collaboration, or portfolio review, feel free to reach out via LinkedIn or email.
 
----
+## 🔗 Live Demo
 
+Check out the live version of this project here:  
+👉 [Live Demo](https://christianjason22042004.github.io/WebDevelopmentProjects/)
+
+---
+                                                 
 Thanks for checking out the project!
+
